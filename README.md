@@ -14,5 +14,7 @@
 
 ![text alternatiu](imagen21.png "Titulo Opcional").
 
-- **HORARIO:**
+- **HORARIO: (en mi caso he elegido Madrid/España porque donde vivo no es obligatorio para vosotros)**
+
+![text alternatiu](imagen31.png "Titulo Opcional").
 
