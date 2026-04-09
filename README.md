@@ -4,5 +4,5 @@
 
 ## Configuración Inicial
 
-- *Comenzaremos primeramente configurando el Moodle desde su interior para tener una zona extra segura y entendible para aquellos que deban entrar a ver. Cambiaremos el nombre tanto largo como cortoAsimismo de poner el horario correcto y establecer el idioma necesario en nuestro moodle. No olvidemos de poner una nueva contraseña que es **vital** no ignorar.*
+- *Comenzaremos primeramente configurando el Moodle desde su interior para tener una zona extra segura y entendible para aquellos que deban entrar a ver. Cambiaremos el nombre tanto largo como corto. Asimismo de poner el horario correcto y establecer el idioma necesario en nuestro moodle. No olvidemos de poner una nueva contraseña que es **vital** no ignorar.*
 
