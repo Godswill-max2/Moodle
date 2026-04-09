@@ -20,3 +20,4 @@
 
 - **IDIOMA: (Aqui es donde podrás instalar paquetes del idioma seleccionado y actualizarlo, hará que puedas seleccionar qué idioma quieres para el Moodle en general)**
 
+![text alternatiu](imagen4.png "Titulo Opcional").
