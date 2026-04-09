@@ -13,3 +13,6 @@
 - *Aqui dentro de la administración del sitio podremos hacer el resto de cosas aparte de cambiar el nombre como he explicado anteriormente, como el horario, idioma o seguridad.*
 
 ![text alternatiu](imagen21.png "Titulo Opcional").
+
+- **HORARIO:**
+
