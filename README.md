@@ -28,5 +28,9 @@
 
 ## Creación de cursos 
 
-- *En la página principal del Moodle, en el botón de creación de "crear un nuevo curso", lo cliquearemos y nos llevará a una zona donde podremos configurar como será el curso antes de poder traerlo a la vida. Con eso, crearemos 2 cursos, uno llamado A con 3 temas y el otro llamado B con 5 temas. Una vez creados, accederemos nuevamente a la administración del lugar y de ahi al apartado de "gestiona cursos y categorias"*
+- *En la página principal del Moodle, en el botón de creación de "crear un nuevo curso", lo cliquearemos y nos llevará a una zona donde podremos configurar como será el curso antes de poder traerlo a la vida. Con eso, crearemos 2 cursos, uno llamado A con 3 temas y el otro llamado B con 5 temas. Una vez creados, accederemos nuevamente a la administración del lugar y de ahi al apartado de "gestiona cursos y categorias" **(La cual es otra manera de poder configurar o crear un curso)***
+
+![text alternatiu](imagen6.png "Titulo Opcional").
+
+![text alternatiu](imagen7.png "Titulo Opcional").
 
