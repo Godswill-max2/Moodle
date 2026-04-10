@@ -21,3 +21,12 @@
 - **IDIOMA: (Aqui es donde podrás instalar paquetes del idioma seleccionado y actualizarlo, hará que puedas seleccionar qué idioma quieres para el Moodle en general)**
 
 ![text alternatiu](imagen4.png "Titulo Opcional").
+
+- **SEGURIDAD: (Aqui podremos configurar todo lo relacionado a la seguridad y permisos de nuestro Moodle, y además, las contraseñas para poder jugar con estas de la manera más segura y fácil)**
+
+![text alternatiu](imagen5.png "Titulo Opcional").
+
+## Creación de cursos 
+
+- *En la página principal del Moodle, en el botón de creación de "crear un nuevo curso", lo cliquearemos y nos llevará a una zona donde podremos configurar como será el curso antes de poder traerlo a la vida. Con eso, crearemos 2 cursos, uno llamado A con 3 temas y el otro llamado B con 5 temas. Una vez creados, accederemos nuevamente a la administración del lugar y de ahi al apartado de "gestiona cursos y categorias"*
+
