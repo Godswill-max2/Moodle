@@ -34,7 +34,16 @@
 
 ![text alternatiu](imagen7.png "Titulo Opcional").
 
+![text alternatiu](imagen8.png "Titulo Opcional").
+
+- **PDF DENTRO DEL CURSO:**
+
+![text alternatiu ](imagen9.png "Titulo Opcional").
+
 ## Creacion y gestión de usuarios
 
 - *Crearemos manualmente un usuario llamado Bob con autenticación manual, para ello iremos nuevamente a Administracion del Lugar, buscaremos usuarios y entraremos de ahí a cuentas, para finalmente añadir un usuario.*
 
+![text alternatiu](imagen10.png "Titulo Opcional")
+
+![text alternatiu](imagen11.png "Titulo Opcional").
