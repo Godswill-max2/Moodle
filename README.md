@@ -50,4 +50,10 @@
 
 ![text alternatiu](imagen11.png "Titulo Opcional").
 
+## Creación masiva de alumnos
+
+- *Con el uso de la hoja de cálculo de Google y descargado en CSV, crearemos 10 usuarios, cada uno con nombre de usuario, nombre y último apellido, email y contraseña, para así dentro del Moodle, ir a administración del lugar, usuarios y cargar usuarios y generar los 10 creados.*
+
+**PUEDES CONSULTAR EL EJEMPLO DE FICHERO CSV EN LA SECCIÓN USUARIOS.**
+
 
