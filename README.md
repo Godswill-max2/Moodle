@@ -56,4 +56,6 @@
 
 **PUEDES CONSULTAR EL EJEMPLO DE FICHERO CSV EN LA SECCIÓN USUARIOS.**
 
+![text alternatiu](imagen12.png "Titulo Opcional").
+
 
