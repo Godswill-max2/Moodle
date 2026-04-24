@@ -56,12 +56,20 @@
 
 **PUEDES CONSULTAR EL EJEMPLO DE FICHERO CSV EN LA SECCIÓN USUARIOS.**
 
-![text alternatiu](imagen 12.png "Titulo Opcional").
-
-**(NO ES "USUARIOS", SI NO "USERNAME" en minuscula).**
+![text alternatiu](imagen12.png "Titulo Opcional").
 
 ![text alternatiu](imagen13.png "Titulo Opcional").
 
 ![text alternatiu](imagen14.png "Titulo Opcional").
 
 ![Text alternatiu](imagen15.png "Titulo Opcional").
+
+## Matriculación de usuarios en los cursos
+
+### Configuración de métodos de inscripción
+
+- *La primera parte de la Configuración de Métodos de inscripción tratará sobre el Curso A que creamos hace unos instantes y desactivaremos cualquier método de inscripción para hacerlo público, además de que permitamos que el curso sea accesible sin necesidad de iniciar sesión.*
+
+- *Le daremos al icono del curso "A" y a la parte de "Participantes", donde continuaremos con otro click en Usuarios Matriculados y en la segunda opcion, "Métodos de matriculación".
+
+- *Dentro de esta opcion, simplemente tendremos que darle a los ojos debajo de "Editar" si tienen una ralla cruzada en el icono, para desactivarlo de cualquier privadeza y hacerlo publico.*
