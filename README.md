@@ -70,6 +70,10 @@
 
 - *La primera parte de la Configuración de Métodos de inscripción tratará sobre el Curso A que creamos hace unos instantes y desactivaremos cualquier método de inscripción para hacerlo público, además de que permitamos que el curso sea accesible sin necesidad de iniciar sesión.*
 
-- *Le daremos al icono del curso "A" y a la parte de "Participantes", donde continuaremos con otro click en Usuarios Matriculados y en la segunda opcion, "Métodos de matriculación".
+- *Le daremos al icono del curso "A" y a la parte de "Participantes", donde continuaremos con otro click en Usuarios Matriculados y en la segunda opcion, "Métodos de matriculación".*
+
+![text alternatiu](imagen16.png "Titulo Opcional").
 
 - *Dentro de esta opcion, simplemente tendremos que darle a los ojos debajo de "Editar" si tienen una ralla cruzada en el icono, para desactivarlo de cualquier privadeza y hacerlo publico.*
+
+![text alternatiu](imagen17.png "Titulo Opcional").
