@@ -55,3 +55,13 @@
 - *Con el uso de la hoja de cálculo de Google y descargado en CSV, crearemos 10 usuarios, cada uno con nombre de usuario, nombre y último apellido, email y contraseña, para así dentro del Moodle, ir a administración del lugar, usuarios y cargar usuarios y generar los 10 creados.*
 
 **PUEDES CONSULTAR EL EJEMPLO DE FICHERO CSV EN LA SECCIÓN USUARIOS.**
+
+![text alternatiu](imagen 12.png "Titulo Opcional").
+
+**(NO ES "USUARIOS", SI NO "USERNAME" en minuscula).**
+
+![text alternatiu](imagen13.png "Titulo Opcional").
+
+![text alternatiu](imagen14.png "Titulo Opcional").
+
+![Text alternatiu](imagen15.png "Titulo Opcional").
