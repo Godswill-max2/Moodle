@@ -86,4 +86,14 @@
 
 - *La verificación será simplemente lo que hemos hecho anteriormente, revisar si está correctamente realizado. Como por ejemplo que el contenido del Grupo A este disponible de forma pública y para poder entrar al Grupo B se tenga que iniciar sesión.*
 
+## Personalización del Lugar
+
+### Cambio de Aspecto
+
+- *Descargaremos y activaremos un tema que hayamos elegido, pero para poder hacerlo tendremos que:*
+
+- *Ir a la administración del lugar, conectores para así ir a la instalación del complemento. Lo seleccionaremos yendo a administración del lugar, apariencia y selector de temas y ya lo habremos hecho.*
+
+- **TENDREMOS QUE MODIFICAR EL ENCABEZADO, PIE DE PÁGINA Y PÁGINA PRINCIPAL.**
+
 
