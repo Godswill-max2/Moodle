@@ -80,4 +80,10 @@
 
 - *Con el grupo B, simplemente tendremos que estar dentro del apartado de "Participantes" de la Clase B, y cliquear el botón azul "matricular usuarios" para poder meter a Bob como profesor del Grupo y el resto como estudiantes.*
 
+![text alternatiu](imagen18.png "Titulo Opcional").
+
+### Verificación
+
+- *La verificación será simplemente lo que hemos hecho anteriormente, revisar si está correctamente realizado. Como por ejemplo que el contenido del Grupo A este disponible de forma pública y para poder entrar al Grupo B se tenga que iniciar sesión.*
+
 
