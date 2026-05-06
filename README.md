@@ -77,3 +77,7 @@
 - *Dentro de esta opcion, simplemente tendremos que darle a los ojos debajo de "Editar" si tienen una ralla cruzada en el icono, para desactivarlo de cualquier privadeza y hacerlo publico.*
 
 ![text alternatiu](imagen17.png "Titulo Opcional").
+
+- *Con el grupo B, simplemente tendremos que estar dentro del apartado de "Participantes" de la Clase B, y cliquear el botón azul "matricular usuarios" para poder meter a Bob como profesor del Grupo y el resto como estudiantes.*
+
+
