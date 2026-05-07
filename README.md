@@ -97,3 +97,13 @@
 - **TENDREMOS QUE MODIFICAR EL ENCABEZADO, PIE DE PÁGINA Y PÁGINA PRINCIPAL.**
 
 ![text alternatiu](imagen19.png "Titulo Opcional").
+
+![text alternatiu](imagen20.png "Titulo Opcional").
+
+## Creació de continguts i activitats
+
+### Curs A
+
+- *Asignaremos a un profesor y matricularemos alumnos dentro del curso. Después, pondremos meteremos diferentes contenidos como actividades y recursos, y alguna debe ser con alguna data de entrega que pida un fichero PDF.*
+
+
