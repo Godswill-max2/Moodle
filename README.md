@@ -106,4 +106,4 @@
 
 - *Asignaremos a un profesor y matricularemos alumnos dentro del curso. Después, pondremos meteremos diferentes contenidos como actividades y recursos, y alguna debe ser con alguna data de entrega que pida un fichero PDF.*
 
-
+![text alternatiu](imagen25.png "TItulo Opcional").
