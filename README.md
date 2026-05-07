@@ -96,4 +96,4 @@
 
 - **TENDREMOS QUE MODIFICAR EL ENCABEZADO, PIE DE PÁGINA Y PÁGINA PRINCIPAL.**
 
-
+![text alternatiu](imagen19.png "Titulo Opcional").
